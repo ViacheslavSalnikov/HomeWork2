@@ -1,0 +1,14 @@
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\bin\Debug\net8.0\HomeWork2.exe
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\bin\Debug\net8.0\HomeWork2.deps.json
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\bin\Debug\net8.0\HomeWork2.runtimeconfig.json
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\bin\Debug\net8.0\HomeWork2.dll
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\bin\Debug\net8.0\HomeWork2.pdb
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.AssemblyInfoInputs.cache
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.AssemblyInfo.cs
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.dll
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\refint\HomeWork2.dll
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.pdb
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.genruntimeconfig.cache
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\ref\HomeWork2.dll
