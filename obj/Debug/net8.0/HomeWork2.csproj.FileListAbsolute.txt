@@ -12,3 +12,4 @@ C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net
 C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.pdb
 C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.genruntimeconfig.cache
 C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\ref\HomeWork2.dll
+C:\Users\inm34\OneDrive\Рабочий стол\HomeWork\HomeWork2\obj\Debug\net8.0\HomeWork2.sourcelink.json
